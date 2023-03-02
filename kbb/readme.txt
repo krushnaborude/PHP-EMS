@@ -9,4 +9,4 @@ User
 user: mahi@gmail.com
 pass: 1234
 
-Developer by K.B Patil MIT IT Aurangabad 
+Developer by K.B Patil MIT  Chhatrapati Sambhaji Nagar
