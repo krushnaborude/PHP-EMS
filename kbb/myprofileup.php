@@ -43,10 +43,10 @@ if(isset($_POST['update']))
   $contact = $res['contact'];
   $address = $res['address'];
   $gender = $res['gender'];
-  $birthday = $res['birthday'];
+  $dob = $res['dob'];
   $nid = $res['nid'];
   $dept = $res['dept'];
-  $degree = $res['degree'];
+  $designation = $res['designation'];
   // $salary = $res['salary'];
 }
 }
